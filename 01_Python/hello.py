@@ -1,0 +1,1 @@
+print("QuantLab operativo")
